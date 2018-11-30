@@ -1,0 +1,18 @@
+li {
+    font-size: 20px;
+}
+#game-result {
+    font-size: 30px;
+}
+body {
+    background-image: url(../images/movieBackground.jpg);
+    background-size: 100%;
+    color: white; 
+}
+.header{
+    color: white;
+    background-color:black;
+}
+li:hover{
+    color: red;
+}
